@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1526419386 source:d:\checkers\main.cpp
+	<iostream>
+	"game_check.h"
+	<string>
+	"chequer.h"
+	"chequer.cpp"
+	<cstdio>
+	<iomanip>
+
+1526038313 d:\checkers\game_check.h
+	"chequer.h"
+	<vector>
+	<iostream>
+	<fstream>
+
+1526041846 d:\checkers\chequer.h
+	"game_check.h"
+	<vector>
+	<iostream>
+	<fstream>
+	<cstdio>
+	<iomanip>
+
+1526041953 source:d:\checkers\chequer.cpp
+	<iostream>
+	<cstdio>
+	"chequer.h"
+	<iomanip>
+
+1526042607 d:\checkers\chequer.cpp
+	<iostream>
+	<cstdio>
+	"chequer.h"
+	<iomanip>
+
